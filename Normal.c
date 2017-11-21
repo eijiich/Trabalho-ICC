@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <math.h>
-#include <values.h>
+//#include <values.h>
+#include <float.h>
 
 	double z1;
 	int generate;
